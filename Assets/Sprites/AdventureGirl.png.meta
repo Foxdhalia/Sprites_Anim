@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 1854bace387ffa44ebaf5d362edc8e91
+timeCreated: 1526495454
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AdventureGirl_0
+    21300002: AdventureGirl_1
+    21300004: AdventureGirl_2
+    21300006: AdventureGirl_3
+    21300008: AdventureGirl_4
+    21300010: AdventureGirl_5
+    21300012: AdventureGirl_6
+    21300014: AdventureGirl_7
+    21300016: AdventureGirl_8
+    21300018: AdventureGirl_9
+    21300020: AdventureGirl_10
+    21300022: AdventureGirl_11
+    21300024: AdventureGirl_12
+    21300026: AdventureGirl_13
+    21300028: AdventureGirl_14
+    21300030: AdventureGirl_15
+    21300032: AdventureGirl_16
+    21300034: AdventureGirl_17
+    21300036: AdventureGirl_18
+    21300038: AdventureGirl_19
+    21300040: AdventureGirl_20
+    21300042: AdventureGirl_21
+    21300044: AdventureGirl_22
+    21300046: AdventureGirl_23
+    21300048: AdventureGirl_24
+    21300050: AdventureGirl_25
+    21300052: AdventureGirl_26
+    21300054: AdventureGirl_27
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AdventureGirl_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1110
+        width: 317
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1110
+        width: 313
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_2
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1110
+        width: 314
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_3
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1110
+        width: 316
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_4
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1110
+        width: 319
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_5
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1110
+        width: 317
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_6
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 1110
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_7
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 1110
+        width: 313
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_8
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 1110
+        width: 313
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_9
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 1110
+        width: 315
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 547
+        width: 344
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 546
+        width: 338
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_12
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 562
+        width: 338
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_13
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 562
+        width: 341
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_14
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 562
+        width: 344
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_15
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 562
+        width: 334
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_16
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 549
+        width: 338
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_17
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 556
+        width: 340
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_18
+      rect:
+        serializedVersion: 2
+        x: 5269
+        y: 551
+        width: 341
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_19
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 556
+        width: 344
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 331
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 353
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 20
+        width: 355
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_23
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 17
+        width: 413
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_24
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 17
+        width: 351
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_25
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 0
+        width: 344
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_26
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 33
+        width: 363
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AdventureGirl_27
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 22
+        width: 369
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

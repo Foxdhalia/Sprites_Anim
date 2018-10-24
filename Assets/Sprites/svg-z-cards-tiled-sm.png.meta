@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: f4e62922b66902443b35b4e8bfc4b7d0
+timeCreated: 1534288470
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: svg-z-cards-tiled-sm_0
+    21300002: svg-z-cards-tiled-sm_1
+    21300004: svg-z-cards-tiled-sm_2
+    21300006: svg-z-cards-tiled-sm_3
+    21300008: svg-z-cards-tiled-sm_4
+    21300010: svg-z-cards-tiled-sm_5
+    21300012: svg-z-cards-tiled-sm_6
+    21300014: svg-z-cards-tiled-sm_7
+    21300016: svg-z-cards-tiled-sm_8
+    21300018: svg-z-cards-tiled-sm_9
+    21300020: svg-z-cards-tiled-sm_10
+    21300022: svg-z-cards-tiled-sm_11
+    21300024: svg-z-cards-tiled-sm_12
+    21300026: svg-z-cards-tiled-sm_13
+    21300028: svg-z-cards-tiled-sm_14
+    21300030: svg-z-cards-tiled-sm_15
+    21300032: svg-z-cards-tiled-sm_16
+    21300034: svg-z-cards-tiled-sm_17
+    21300036: svg-z-cards-tiled-sm_18
+    21300038: svg-z-cards-tiled-sm_19
+    21300040: svg-z-cards-tiled-sm_20
+    21300042: svg-z-cards-tiled-sm_21
+    21300044: svg-z-cards-tiled-sm_22
+    21300046: svg-z-cards-tiled-sm_23
+    21300048: svg-z-cards-tiled-sm_24
+    21300050: svg-z-cards-tiled-sm_25
+    21300052: svg-z-cards-tiled-sm_26
+    21300054: svg-z-cards-tiled-sm_27
+    21300056: svg-z-cards-tiled-sm_28
+    21300058: svg-z-cards-tiled-sm_29
+    21300060: svg-z-cards-tiled-sm_30
+    21300062: svg-z-cards-tiled-sm_31
+    21300064: svg-z-cards-tiled-sm_32
+    21300066: svg-z-cards-tiled-sm_33
+    21300068: svg-z-cards-tiled-sm_34
+    21300070: svg-z-cards-tiled-sm_35
+    21300072: svg-z-cards-tiled-sm_36
+    21300074: svg-z-cards-tiled-sm_37
+    21300076: svg-z-cards-tiled-sm_38
+    21300078: svg-z-cards-tiled-sm_39
+    21300080: svg-z-cards-tiled-sm_40
+    21300082: svg-z-cards-tiled-sm_41
+    21300084: svg-z-cards-tiled-sm_42
+    21300086: svg-z-cards-tiled-sm_43
+    21300088: svg-z-cards-tiled-sm_44
+    21300090: svg-z-cards-tiled-sm_45
+    21300092: svg-z-cards-tiled-sm_46
+    21300094: svg-z-cards-tiled-sm_47
+    21300096: svg-z-cards-tiled-sm_48
+    21300098: svg-z-cards-tiled-sm_49
+    21300100: svg-z-cards-tiled-sm_50
+    21300102: svg-z-cards-tiled-sm_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_7
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_10
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_11
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_12
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 660
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_18
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_21
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_22
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_23
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_24
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_25
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 440
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_33
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_34
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_35
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_36
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_37
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_38
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 220
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_44
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_45
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_46
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_47
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_48
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_49
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_50
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: svg-z-cards-tiled-sm_51
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
